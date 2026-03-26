@@ -1,4 +1,4 @@
-# 🤖 Team Context
+# Team Context
 
 ### 조선대학교 AI·SW학부 산학 프로젝트 1
 **기업 내부 매뉴얼 기반 AI 질의응답 시스템(RAG) 개발 팀입니다.**
